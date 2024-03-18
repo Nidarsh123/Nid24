@@ -7,7 +7,7 @@ public class MavenPractice {
 	public void test() {
 		System.out.println("smoke test");
 		//smoke test1
-		//pull
+		//pull to eclipse
 	}
 
 }
