@@ -9,5 +9,6 @@ public class MavenP24 {
 		System.out.println("hi");
 		System.out.println("hello");
 		//push
+		//pull0
 	}
 }
