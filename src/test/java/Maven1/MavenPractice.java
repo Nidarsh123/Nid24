@@ -6,7 +6,7 @@ public class MavenPractice {
 	@Test
 	public void test() {
 		System.out.println("smoke test");
-		//smoke test
+		//smoke test1
 	}
 
 }
