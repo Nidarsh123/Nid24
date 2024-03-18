@@ -8,6 +8,7 @@ public class MavenPractice {
 		System.out.println("smoke test");
 		//smoke test1
 		//pull to eclipse
+		System.out.println("smoke");
 	}
 
 }
