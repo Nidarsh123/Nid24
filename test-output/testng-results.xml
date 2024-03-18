@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-18T17:11:57 IST" name="Default suite" finished-at="2024-03-18T17:11:57 IST" duration-ms="93">
+  <suite started-at="2024-03-18T17:22:24 IST" name="Default suite" finished-at="2024-03-18T17:22:24 IST" duration-ms="162">
     <groups>
     </groups>
-    <test started-at="2024-03-18T17:11:57 IST" name="Default test" finished-at="2024-03-18T17:11:57 IST" duration-ms="93">
-      <class name="Maven.MavenP24">
-        <test-method signature="P1test()[pri:0, instance:Maven.MavenP24@1ed4ae0f]" started-at="2024-03-18T17:11:57 IST" name="P1test" finished-at="2024-03-18T17:11:57 IST" duration-ms="12" status="PASS">
+    <test started-at="2024-03-18T17:22:24 IST" name="Default test" finished-at="2024-03-18T17:22:24 IST" duration-ms="162">
+      <class name="Maven.MavenP124">
+        <test-method signature="p2test()[pri:0, instance:Maven.MavenP124@1ed4ae0f]" started-at="2024-03-18T17:22:24 IST" name="p2test" finished-at="2024-03-18T17:22:24 IST" duration-ms="19" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- P1test -->
-      </class> <!-- Maven.MavenP24 -->
+        </test-method> <!-- p2test -->
+      </class> <!-- Maven.MavenP124 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
