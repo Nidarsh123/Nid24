@@ -8,5 +8,6 @@ public class MavenP24 {
 	public void P1test() {
 		System.out.println("hi");
 		System.out.println("hello");
+		//push
 	}
 }
