@@ -9,6 +9,7 @@ public class MavenPractice {
 		//smoke test #2
 		//pull to eclipse
 		System.out.println("smoke");
+		//but we wants
 	}
 
 }
